@@ -2,25 +2,20 @@
 <a href="mailto:netodebortoli77@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/netodebortoli" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/aristides-debortoli" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-
-<div align="center"> <h1> Saudações, me chamo Aristides😎 </h1> </div>  
+<img src=https://elloza.com/img/20180302_HelloWorld/hello_world.png align="center" style="width: 50%" /> </div>
+<div align="center"> <h2> Saudações, me chamo Aristides 😎 </h2> </div>  
   
 
 - 💻 Cursando Sistemas de Informação pelo Instituto Federal do Espirito Santo - IFES.  
   
 - 💼 Estágario em um projeto de desenvolvimento para o TJES em parceria com a FAPES, atuando pelo IFES.
 
-- 🌱 Atualmente estudando Angular e Spring com Java  
+- 🌱 Atualmente estudando Angular, Spring com Java e Inglês   
   
 <br/>  
 
