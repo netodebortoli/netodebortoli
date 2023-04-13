@@ -22,10 +22,9 @@
 
 - 🌱 Atualmente estudando Angular e Spring com Java  
   
-
 <br/>  
 
-<div align="center"> <h2> Linguagens e Tecnologia </h2> </div>  
+<div align="center"> <h2> Linguagens e Tecnologias </h2> </div>  
 <br />
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
