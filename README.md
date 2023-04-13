@@ -20,7 +20,7 @@
   
 - 💼 Estágario em um projeto de desenvolvimento para o TJES em parceria com a FAPES, atuando pelo IFES.
 
-- 🌱 Atualmente estudando Angular e Spring Boot com Java  
+- 🌱 Atualmente estudando Angular e Spring com Java  
   
 
 <br/>  
