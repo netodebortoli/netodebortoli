@@ -13,7 +13,7 @@
 
 - 💻 Cursando Sistemas de Informação pelo Instituto Federal do Espirito Santo - IFES.  
   
-- 💼 Estágario em um projeto de desenvolvimento para o TJES em parceria com a FAPES, atuando pelo IFES.
+- 💼 Estagiário em um projeto de desenvolvimento de sistema para o TJES em parceria com a FAPES, atuando pelo IFES.
 
 - 🌱 Atualmente estudando Angular, Spring com Java e Inglês   
   
