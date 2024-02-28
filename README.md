@@ -13,9 +13,7 @@
 
 - 💻 Cursando Sistemas de Informação pelo Instituto Federal do Espirito Santo - IFES.  
   
-- 💼 Estagiário em um projeto de desenvolvimento de sistema para o TJES em parceria com a FAPES, atuando pelo IFES.
-
-- 🌱 Atualmente estudando Angular, Spring com Java e Inglês   
+- 💼 Estagiário de Desenvolvimento de Software pela empresa Gubee.
   
 <br/>  
 
