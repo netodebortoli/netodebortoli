@@ -10,9 +10,9 @@
 <img src=https://elloza.com/img/20180302_HelloWorld/hello_world.png align="center" style="width: 50%" /> </div>
 <div align="center"> <h2> Saudações, me chamo Aristides 😎 </h2> </div>  
   
-- 💻 Cursando Sistemas de Informação pelo Instituto Federal do Espirito Santo - IFES.  
+- 💻 Formado em Sistemas de Informação pelo Instituto Federal do Espirito Santo - IFES.  
   
-- 💼 Estagiário de Desenvolvimento de Software pela empresa Gubee.
+- 💼 Trainee de Desenvolvimento Web pela Gubee.
 <br/>  
 
 <div align="center"> <h2> Linguagens e Tecnologias </h2> </div>  
